@@ -1,0 +1,15 @@
+output
+output/*
+outputs
+outputs/*
+dumps/*
+.vs
+.vs/*
+__pycache__
+__pycache__/*
+UPG_construction/upg_gen_old.py
+UPG_construction/upg_gen2.py
+*.txt
+*.json
+*.html
+*.csv
